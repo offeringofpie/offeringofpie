@@ -1,8 +1,8 @@
 ## J Lopes
 
-Frontend engineer. Love working with TypeScript, React, Astro.
+Frontend developer. Love working with TypeScript, React, Astro.
 
-I came to engineering from design, so I tend to work between both: design tokens, component APIs, and the CMS architecture underneath them.
+I came to development from design, so I tend to work between both: design tokens, component APIs, and the CMS architecture underneath them.
 
 Based in the UK.
 
