@@ -2,18 +2,18 @@
 
 Frontend developer. Love working with TypeScript, React, Astro.
 
-I came to development from design, so I tend to work between both: design tokens, component APIs, and the CMS architecture underneath them.
+I came to development from design, so I tend to work between both.
 
 Based in the UK.
 
 ### Examples of work
 
-- **[tools](https://github.com/offeringofpie/tools)** — 19 browser tools, all client-side. Nuxt 4, Vue 3.
+- **[tools](https://github.com/offeringofpie/tools)** — learning experience on how certain tools work. Nuxt 4, Vue 3.
 - **[docker-wordpress-multisite](https://github.com/offeringofpie/docker-wordpress-multisite)**
   — WordPress multisite on Docker.
 - **[spider](https://github.com/offeringofpie/spider)** — article and website
   parser. TypeScript.
-- **[jlopes.eu](https://jlopes.eu)** — portfolio and blog. Astro, MDX, and a simple robust theme system.
+- **[jlopes.eu](https://jlopes.eu)** — portfolio and blog. Astro, MDX, and themed philosophy.
 
 ---
 
